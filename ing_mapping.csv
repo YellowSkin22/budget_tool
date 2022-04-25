@@ -1,6 +1,25 @@
-name;category;subcategory
-CCVPIZZERIA SAN MARIN HARLINGEN;food;restaurants
-ZORGVERZEKERAAR ZORG EN ZEKERHEID UA;healthcare;insurance
-"Coop De Kwakel DE KWAKEL NLD";food;groceries
-"CCVGERT STRONKHORST K UITHOORN";food;groceries
-CCVRestaurant Binnen NES AMELAND;food;restaurant
+name,category,subcategory
+CCVPIZZERIA SAN MARIN HARLINGEN,food,restaurant
+ZORGVERZEKERAAR ZORG EN ZEKERHEID UA,healthcare,insurance
+"Coop De Kwakel DE KWAKEL NLD	",food,groceries
+"CCVGERT STRONKHORST K UITHOORN	",food,groceries
+CCVRestaurant Binnen NES AMELAND,food,restaurant
+De Walvisvaarder HOLLUM NLD,food,restaurant
+PZaailand LEEUWARDEN NLD,car,parking
+CCVBAGELS BEANS LEE LEEUWARDEN,food,restaurant
+ONTV HYPOTHEEKGELDEN,house,mortgage
+Urker Vis en Meer LEEUWARDEN NLD,food,groceries
+ENECO SERVICES,house,utilities
+BELASTINGDIENST,taxes,taxes
+A.M. Schotman,transfer,moksie
+AH Franeker FRANEKER NLD,food,groceries
+PYVShell Hoge Kwel WIERINGERWERF,car,other
+Coinbase,investments,bitcoin
+"Flatex Bank AG	",investments,etf
+"International Card Services B.V.	",credit card,payment
+Caiway,house,internet
+Pricewaterhousecoopers Belastingadviseurs N.V.,income,salary
+Dienst Justis via ING Bank,work,expense
+Centraal Beheer,house,insurance
+Online Payments Foundation,other,other
+ING Bank NV Betaalverzoek,transfer,other
